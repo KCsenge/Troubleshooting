@@ -4,7 +4,7 @@
 		"id": "sap.ui.demo.HeapOfShards",
 		"type": "application",
 		"i18n": {
-			"bundleUrl": "i18n/i18n.properties",
+			"bundleUrl": "/i18n/i18n.properties",
 			"supportedLocales": [
 				""
 			],
